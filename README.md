@@ -1,7 +1,7 @@
 # 📸 Gallery
 
 **A clean and responsive photo gallery built with pure HTML and CSS**
-![Image]()
+![Image](![Image](https://github.com/user-attachments/assets/3ab13bcc-5c84-4f5e-9c98-d783361084c9))
 
 <!-- ![preview](./screenshots/preview.jpg) -->
 
