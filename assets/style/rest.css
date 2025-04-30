@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    direction: rtl;
+    background-color: #f9f9f9;
+    font-family: "IRANYekanWebMedium";
+}
+
+
+:root{
+    --primary-color:#052661;
+    --secondary-color:rgb(185, 74, 0);
+    --secondary-color-on:rgba(255, 180, 88, 0.29);
+    --text-color:#7d7d7d;
+    --border:#adadad;
+}
+
+
+@font-face {
+    font-family: "IRANYekanWebMedium";
+    src: url(../font/IRANYekanWebMedium.ttf);
+}
+
+@font-face {
+    font-family: "IRANYekanWebExtraBold";
+    src: url(../font/IRANYekanWebExtraBold.ttf);
+}
+
+h1 {
+    font-size: 18px;
+    font-family: "IRANYekanWebExtraBold";
+}
+
+p ,a {
+    font-size: 12px;
+    padding-top: 8px;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
