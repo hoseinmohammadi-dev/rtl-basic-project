@@ -61,14 +61,6 @@ main {
                         border-radius: 2px;
                     }
 
-                    /* این رو میخوام همیشه دیده بشه بیفورش  */
-                    .one-a {
-                        &::before{
-                            opacity: 1;
-                            visibility: visible;
-                        }
-                    }
-
                     &:hover {
                         color: var(--secondary-color);
                         border: 1px solid var(--secondary-color);
